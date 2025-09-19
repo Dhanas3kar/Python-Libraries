@@ -1,0 +1,11 @@
+Name,Age,Gender,City,Salary,Experience,Department,Education
+Alice,30,Female,New York,70000,5,Engineering,Bachelor's
+Bob,25,Male,Los Angeles,60000,3,Marketing,Master's
+Charlie,35,Male,Chicago,80000,10,Finance,PhD
+David,28,Male,Houston,75000,4,Engineering,Bachelor's
+Eva,32,Female,Phoenix,72000,6,Design,Master's
+Frank,29,Male,Philadelphia,68000,5,Marketing,Bachelor's
+Grace,31,Female,San Antonio,71000,7,Finance,PhD
+Hannah,27,Female,San Diego,69000,4,Design,Master's
+Jones,29,Male,Dallas,73000,5,Engineering,Bachelor's
+Harry,28,Male,San Jose,76000,6,Marketing,Master's
